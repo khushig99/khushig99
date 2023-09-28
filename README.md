@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react js, Web Services**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,CloudComputing**
+- 💬 Ask me about **HTML, CSS, JavaScript, CloudComputing**
 
 - 📫 How to reach me **khushi080803@gmail.com**
 
