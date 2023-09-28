@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khushi080803@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XcQ82toxjNJsLx0momLz2IQokvc8A7G7CqEmwt1jV70/edit?usp=sharing](https://docs.google.com/document/d/1XcQ82toxjNJsLx0momLz2IQokvc8A7G7CqEmwt1jV70/edit?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Danced with a professional troupe**
 
