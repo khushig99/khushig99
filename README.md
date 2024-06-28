@@ -19,6 +19,7 @@ const khushigupta0808 = {
   reachMeOut: ["khushi080803@gmail.com"],
   toFindMeUsername: "@khushig99"
 };
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
