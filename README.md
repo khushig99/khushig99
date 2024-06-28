@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](https://camo.githubusercontent.com/c4df2d70116604b62c8e4224684e4c6606794a6d00730bd9da4d78da0f0518dd/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)
+[![An image of @khushig99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushig99)](https://holopin.io/@khushig99)
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">Tech Enthusiast & Aspiring AI Engineer with Strong Programming Skills, Frontend Development, and Cloud Expertise</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
@@ -37,5 +37,6 @@ const khushigupta0808 = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushig99&" alt="khushig99" /></p>
 
-[![An image of @khushig99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushig99)](https://holopin.io/@khushig99)
+
+![MasterHead](https://camo.githubusercontent.com/c4df2d70116604b62c8e4224684e4c6606794a6d00730bd9da4d78da0f0518dd/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)
 
