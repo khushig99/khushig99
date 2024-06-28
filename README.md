@@ -6,15 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushig99&label=Profile%20views&color=0e75b6&style=flat" alt="khushig99" /> </p>
 
-- 🌱 I’m currently learning **react js, Web Services**
+<!-- About Me -->
+<h2 align="left">About me👨‍💻</h2>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, CloudComputing**
-
-- 📫 How to reach me **khushi080803@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **Danced with a professional troupe**
+```JavaScript
+const khushigupta0808 = {
+  fullName: "Khushi Gupta",
+  pronouns: "She/Her",
+  tags: ["Frontend ❤️", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
+  communities: ["LetsUpgrade Golden Student Ambassador 👨‍🎓", "Major League Hacking 🚀", "GCP Community 💜"],
+  askMeAbout: ["Web Development", "Cloud Technology", "Open Source", "APIs", "UI Designing"],
+  reachMeOut: ["khushi080803@gmail.com"],
+  toFindMeUsername: "@khushig99"
+};
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
